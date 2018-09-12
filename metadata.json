@@ -1,0 +1,15 @@
+{
+  "name": "hfm-mkr",
+  "version": "0.1.0",
+  "author": "hfm",
+  "summary": "Manage mkr plugin for mackerel",
+  "license": "MIT",
+  "source": "https://github.com/hfm/puppet-mkr",
+  "project_page": "https://github.com/hfm/puppet-mkr",
+  "issues_url": "https://github.com/hfm/puppet-mkr/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
